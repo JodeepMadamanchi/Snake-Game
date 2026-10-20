@@ -1,0 +1,1 @@
+Welcome to my second Python repository! This collection marks my transition into intermediate programming, focusing heavily on Object-Oriented Programming (OOP) principles—such as classes, inheritance, and encapsulation—alongside interactive graphical applications built using Python's Turtle graphics module.
